@@ -1,0 +1,12 @@
+[submodule "android-ifaddrs"]
+	path = android-ifaddrs
+	url = https://github.com/PurpleI2P/android-ifaddrs.git
+[submodule "miniupnp"]
+	path = miniupnp
+	url = https://github.com/miniupnp/miniupnp.git
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/openssl/openssl.git
+[submodule "boost"]
+	path = boost
+	url = https://github.com/moritz-wundke/Boost-for-Android.git
